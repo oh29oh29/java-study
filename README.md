@@ -8,3 +8,5 @@
 * [Control Flow](https://github.com/oh29oh29/java-control-flow)
 * [Class](https://github.com/oh29oh29/java-class)
 * [Inheritance](https://github.com/oh29oh29/java-inheritance)
+* [Package](https://github.com/oh29oh29/java-package)
+* [Interface](https://github.com/oh29oh29/java-interface)
