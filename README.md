@@ -10,3 +10,4 @@
 * [Inheritance](https://github.com/oh29oh29/java-inheritance)
 * [Package](https://github.com/oh29oh29/java-package)
 * [Interface](https://github.com/oh29oh29/java-interface)
+* [Exception](https://github.com/oh29oh29/java-exception)
