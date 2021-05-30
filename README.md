@@ -12,3 +12,4 @@
 * [Interface](https://github.com/oh29oh29/java-interface)
 * [Exception](https://github.com/oh29oh29/java-exception)
 * [Thread](https://github.com/oh29oh29/java-thread)
+* [Enumeration](https://github.com/oh29oh29/java-enumeration)
